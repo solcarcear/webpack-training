@@ -1,0 +1,2 @@
+# webpack-training
+Practicing webpack
